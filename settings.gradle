@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Notebook"
 include ':app'
+include ':Java'
