@@ -1,4 +1,4 @@
-package com.example.notebook;
+package com.example.designpattern;
 
 import org.junit.Test;
 

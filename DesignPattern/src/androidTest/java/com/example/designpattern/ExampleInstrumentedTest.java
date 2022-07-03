@@ -1,4 +1,4 @@
-package com.example.notebook;
+package com.example.designpattern;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.notebook", appContext.getPackageName());
+        assertEquals("com.example.designpattern.test", appContext.getPackageName());
     }
 }
