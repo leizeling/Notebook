@@ -10,3 +10,4 @@ rootProject.name = "Notebook"
 include ':app'
 include ':Java'
 include ':DesignPattern'
+include ':Android'
